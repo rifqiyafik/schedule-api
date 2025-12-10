@@ -128,4 +128,4 @@ Jalankan perintah ini untuk memvalidasi logika perhitungan shift:
 php artisan test
 ```
 
-###Author: Rifqi Yafik
+### Author: Rifqi Yafik
