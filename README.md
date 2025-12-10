@@ -118,3 +118,14 @@ Mengecek shift per user di tanggal tertentu.
 ```http
 GET /api/api/check-schedule?user_id=001&date=2025-01-05
 ```
+
+
+### 🧪 Unit Testing
+
+Jalankan perintah ini untuk memvalidasi logika perhitungan shift:
+
+```bash
+php artisan test
+```
+
+###Author:### Rifqi Yafik
